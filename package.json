@@ -1,0 +1,6 @@
+{
+  "name"    : "mattermost",
+  "version" : "0.0.1",
+  "main"    : "main.js",
+  "node-integration": false
+}
